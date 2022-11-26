@@ -57,7 +57,7 @@ _ Website
 
 
 <div align="center">
-<img class="img" width="800" src="https://github-readme-stats.vercel.app/api?username=sanCrystal&show_icons=true&theme=radical"/>
+<img class="img" width="800" src="https://github-readme-stats.vercel.app/api?username=sanCrystal&show_icons=true&theme=dracula"/>
 </div>
 &nbsp;
 
@@ -67,7 +67,7 @@ _ Website
 
 
 <div align="center">
-  <img width="500" height="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauline-banye&show_icons=true&theme=radical">
+  <img width="500" height="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanCrystal&show_icons=true&theme=radical">
 </div>
 
 

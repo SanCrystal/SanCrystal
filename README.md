@@ -46,9 +46,10 @@ _ Website
 
 
 <p align="center">
-  ![Twitter Follow](https://img.shields.io/twitter/follow/amanzearthur?color=%23c799ff&logoColor=%23c799ff&style=for-the-badge)
 
-    ![Twitter URL](https://img.shields.io/twitter/url?color=%23237762F7FF&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Famanzearthur)
+![Twitter Follow](https://img.shields.io/twitter/follow/amanzearthur?color=%23c799ff&logoColor=%23c799ff&style=for-the-badge)
+
+![Twitter URL](https://img.shields.io/twitter/url?color=%23237762F7FF&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Famanzearthur)
 
 </p>
 

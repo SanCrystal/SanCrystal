@@ -141,13 +141,13 @@ _ Website
 <br >
 <div style="background-color: light-grey">
 <p align="center">
-  <a href="https://github.com/sanCrystal"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='48'></a>
+  <a href="https://github.com/sanCrystal"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='48' width="48" ></a>
   <a href="https://www.linkedin.com/in/amanzearthur">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://drive.google.com/uc?export=view&id=1sT_dD9us0s2CVl4Q8ehCMVm-ruVphGXb">
   </a>
-  <a href="https://dev.to/sancrystal"><img src="https://drive.google.com/uc?export=view&id=1vYRcTYWhCTjc2nWhUUE0AxLfQ_mx7YpV" alt='dev' height='48'></a>
+  <a href="https://dev.to/sancrystal"><img src="https://drive.google.com/uc?export=view&id=1vYRcTYWhCTjc2nWhUUE0AxLfQ_mx7YpV" alt='dev' height='48' width="48" ></a>
 
-  <a href="https://medium.com/@santacrypto.drop"><img src="https://drive.google.com/uc?export=view&id=1f2iEYAjN2ngnanm88abGO1VHy4xX8wPF" alt='medium' height='40'></a>
+  <a href="https://medium.com/@santacrypto.drop"><img src="https://drive.google.com/uc?export=view&id=1f2iEYAjN2ngnanm88abGO1VHy4xX8wPF" alt='medium' height='40' width="40" ></a>
   </a>
   <a href="https://twitter.com/amanzearthur">
     <img alt="Twitter" title="Twitter" height="48" width="48" src="https://drive.google.com/uc?export=view&id=1SxffvyS6y96Vvl_zIebZioRkFwqeAXP1">

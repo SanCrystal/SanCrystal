@@ -139,7 +139,7 @@ _ Website
 
 <h2>Hire me or just chat, reach out! </h2>
 <br >
-<div style="background-color: light-grey">
+
 <p align="center">
   <a href="https://github.com/sanCrystal"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='48' width="48" ></a>
   <a href="https://www.linkedin.com/in/amanzearthur">
@@ -151,8 +151,9 @@ _ Website
   </a>
   <a href="https://twitter.com/amanzearthur">
     <img alt="Twitter" title="Twitter" height="48" width="48" src="https://drive.google.com/uc?export=view&id=1SxffvyS6y96Vvl_zIebZioRkFwqeAXP1">
+    </a>
 </p>
-</div>
+
 
 #
 

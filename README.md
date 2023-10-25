@@ -35,6 +35,8 @@ Active contributor to open source projects
 - Python projects for the web
 - Solidity projects
 - Nodejs projects
+- React/Nextjs projects
+- ReactNavtive inview
 
 
 ### 📫 How to reach me: 

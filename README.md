@@ -36,7 +36,7 @@ Active contributor to open source projects
 - Solidity projects
 - Nodejs projects
 - React/Nextjs projects
-- ReactNavtive inview
+- ReactNative inview
 
 
 ### 📫 How to reach me: 
